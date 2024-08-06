@@ -89,7 +89,7 @@ Video Link:-
 
 ## Author
 
-- [@goku](https://github.com/gtech-official08)
+- [@goku](https://github.com/gokarna123-goku)
 
 
 ## Acknowledgements
