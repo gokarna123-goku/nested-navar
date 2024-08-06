@@ -62,10 +62,10 @@ npm run dev -- --host
 
 ## Screenshots
 
-![Larger Size](https://github.com/user-attachments/assets/2e093936-bb2d-4a87-bf24-11d6dacf4b48)
+![larger Size](https://github.com/user-attachments/assets/ec40a01a-01d9-457e-be5d-13299a85b141)
 
-![Mobile Size](https://github.com/user-attachments/assets/3570feb3-5791-4421-93c9-e97736f776e0)
 
+![Mobile Size](https://github.com/user-attachments/assets/429a1613-b727-4627-875e-bfb3e81eff4a)
 
 
 ## See Demo
